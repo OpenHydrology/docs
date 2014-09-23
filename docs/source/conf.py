@@ -20,7 +20,6 @@ import os
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #sys.path.insert(0, os.path.abspath('.'))
-sys.path.insert(0, os.path.abspath('../..'))
 
 # -- General configuration ------------------------------------------------
 
@@ -49,7 +48,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Open Hydrology'
-copyright = '2014, Neil Nutt, Florenz A.P. Hollebrandse'
+copyright = '2014, Open Hydrology contributors'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -202,7 +201,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
   ('index', 'OpenHydrology.tex', 'Open Hydrology Documentation',
-   'Neil Nutt, Florenz A.P. Hollebrandse', 'manual'),
+   'Open Hydrology contributors', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -232,7 +231,7 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', 'openhydrology', 'Open Hydrology Documentation',
-     ['Neil Nutt, Florenz A.P. Hollebrandse'], 1)
+     ['Open Hydrology contributors'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -246,7 +245,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   ('index', 'openhydrology', 'Open Hydrology Documentation',
-   'Neil Nutt, Florenz A.P. Hollebrandse', 'openhydrology', 'One line description of project.',
+   'Open Hydrology contributors', 'openhydrology', 'One line description of project.',
    'Miscellaneous'),
 ]
 
