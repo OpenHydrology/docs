@@ -11,13 +11,5 @@ Contents:
    :numbered:
    :maxdepth: 2
 
-   Statistical flood estimation user interface (no documentation yet) </>
+   Statistical flood estimation user interface (no documentation yet) <http://open-hydrology.readthedocs.org/>
    Flood estimation library <http://open-hydrology.readthedocs.org/projects/floodestimation/>
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
