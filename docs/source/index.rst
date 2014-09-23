@@ -11,11 +11,8 @@ Contents:
    :numbered:
    :maxdepth: 2
 
-Documentation for Open Hydrology projects
-=========================================
-
-* Statistical flood estimation user interface (no documentation yet)
-* `Flood estimation library <http://open-hydrology.readthedocs.org/projects/floodestimation/>`_
+   Statistical flood estimation user interface (no documentation yet) </>
+   Flood estimation library <http://open-hydrology.readthedocs.org/projects/floodestimation/>
 
 
 Indices and tables
