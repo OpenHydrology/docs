@@ -13,3 +13,4 @@ Contents:
 
    Statistical flood estimation user interface (no documentation yet) <http://open-hydrology.readthedocs.org/>
    Flood estimation library <http://open-hydrology.readthedocs.org/projects/floodestimation/>
+   L-moments library <http://open-hydrology.readthedocs.org/projects/lmoments3/>
