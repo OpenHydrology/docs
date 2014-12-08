@@ -9,11 +9,11 @@ End-user packages:
 
 .. toctree::
 
-   OH-Statistical (Statistical flood estimation for the UK) <http://open-hydrology.readthedocs.org/>
+   OH-Statistical (Statistical flood estimation for the UK) <http://docs.open-hydrology.org/>
 
 Libraries:
 
 .. toctree::
 
-   Flood estimation library <http://open-hydrology.readthedocs.org/projects/floodestimation/>
-   L-moments library <http://open-hydrology.readthedocs.org/projects/lmoments3/>
+   Flood estimation library <http://docs.open-hydrology.org/projects/floodestimation/>
+   L-moments library <http://docs.open-hydrology.org/projects/lmoments3/>
