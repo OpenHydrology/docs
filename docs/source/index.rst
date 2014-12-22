@@ -9,7 +9,8 @@ End-user packages:
 
 .. toctree::
 
-   OH-Statistical (Statistical flood estimation for the UK) <http://docs.open-hydrology.org/>
+   OH Statistical (Statistical flood estimation for the UK) <http://docs.open-hydrology.org/>
+   OH Auto Statistical <http://docs.open-hydrology.org/projects/oh-auto-statistical>
 
 Libraries:
 
