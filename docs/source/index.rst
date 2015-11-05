@@ -13,5 +13,6 @@ user-friendly software packages and libraries.
 .. toctree::
    :caption: Libraries
 
+   OH Auto Statistical web API <http://docs.open-hydrology.org/projects/oh-auto-statistical-web-api/>
    Flood estimation library <http://docs.open-hydrology.org/projects/floodestimation/>
    L-moments library <http://docs.open-hydrology.org/projects/lmoments3/>
